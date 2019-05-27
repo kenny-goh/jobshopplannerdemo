@@ -1,6 +1,6 @@
 # JOB SHOP SCHEDULING DEMO
 
-Job Shop Planner Demo using JS React as frontend and Python as optimiser/backend.
+Job Shop Scheduling Demo using JS React as frontend and Python as optimiser/backend.
 
 The goals of this project are the followings:
 - To create react GUI components suitable for interactive planning solutions on the web ( Gantt Chart, etc..)
