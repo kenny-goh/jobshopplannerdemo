@@ -1,0 +1,106 @@
+
+::-webkit-scrollbar { width: 8px; height: 8px;}
+::-webkit-scrollbar-button {  background-color: #ddd; }
+::-webkit-scrollbar-track {  background-color: #efefef;}
+::-webkit-scrollbar-track-piece { background-color: #eee;}
+::-webkit-scrollbar-thumb { height: 50px; background-color: #ccc; border-radius: 3px;}
+::-webkit-scrollbar-corner { background-color: #fff;}
+::-webkit-resizer { background-color: #999;}
+
+.toolbar
+{
+    margin:5px;
+}
+
+.panel {
+  height:100%;  
+  width:100%;
+  position: absolute;
+}
+
+.react-grid-Main{
+height: 100%;
+}
+  
+.react-grid-Container{
+height: 100%;
+}
+
+.react-grid-Grid{
+min-height: 100% !important;
+}
+
+.react-grid-Canvas{
+height: 100% !important;
+}
+
+.rdg-selected {
+  border: none;
+}
+
+.NavBar {
+  padding: 40px;
+}
+
+.app
+{
+    display:flex;
+    flex-direction: column;
+    flex-grow:1;
+    display:-webkit-flex;
+    -webkit-flex-direction: column;
+    -webkit-flex-grow:1;
+}
+
+.contents
+{
+    flex-grow:1;
+    -webkit-flex-grow:1;
+    left:0;
+    top:0;
+    right:0;
+    bottom:0;
+    position:relative;
+    border:1px solid #ddd;
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+}
+
+#container  {
+  left:10px;
+  top:10px;
+  right:10px;
+  bottom:10px;
+  position:absolute;
+  display:flex;
+  display:-webkit-flex;
+  overflow:hidden;
+  background-color: white;
+}
+
+.kpi-label {
+  color:black;
+  font-weight:bold;
+}
+
+.kpi-label {
+  color:darkslategrey;
+  font-weight:bold;
+}
+
+.kpi-good {
+  color:black;
+  background-color: lightgreen;
+}
+
+.kpi-warning {
+  color:black;
+  background-color: yellow
+}
+
+.kpi-bad {
+  color:yellow;
+  background-color:red
+
+}
+
