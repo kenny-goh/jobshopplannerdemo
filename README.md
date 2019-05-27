@@ -1,3 +1,3 @@
-# JOB SHOP DEMO
-Job Shop Planner Demo using React as front end and Python as optimiser/backend
+# JOB SHOP PLANNER DEMO
 
+Job Shop Planner Demo using React as frontend and Python as optimiser/backend
