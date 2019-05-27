@@ -1,4 +1,4 @@
-# JOB SHOP PLANNER DEMO
+# JOB SHOP SCHEDULING DEMO
 
 Job Shop Planner Demo using JS React as frontend and Python as optimiser/backend.
 
