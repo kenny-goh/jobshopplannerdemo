@@ -1,4 +1,4 @@
-# JOB SHOP SCHEDULING DEMO
+# Job Shop Scheduling Demo
 
 Job Shop Scheduling Demo using JS React as frontend and Python as optimiser/backend.
 
