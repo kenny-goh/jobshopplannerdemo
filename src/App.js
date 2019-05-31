@@ -262,6 +262,11 @@ export default class App extends React.Component {
    * Helper method to create test data
    */
   _createTestData() {
+    
+    // All these domain objects will eventually run in the backend
+    // and kept in sync using WebSocket.
+    // At the moment, it is just a placeholder..
+    
     var company = new Company("Company");
     company.addResource("Machine1", "Assembly", 1);
     company.addResource("Machine2", "Assembly", 1);
