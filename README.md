@@ -5,7 +5,7 @@ Job Shop Scheduling Demo using JS React as frontend and Python as optimiser/back
 The goals of this project are the followings:
 - To create react GUI components suitable for interactive planning solutions on the web ( Gantt Chart, etc..)
 - To create a framework for building simple yet configurable planning solutions with rules expressed as logic and predicates.
-- Configurable optimizer based on simplex solver. 
+- Configurable optimizer based on simplex solver. Refer to Brain, my other project on Github.
 -
 ...
 
